@@ -1,6 +1,6 @@
 {
-  "name": "next-hygraph",
-  "version": "1.0.0",
+  "name": "experimental-next-hygraph",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "type": "module",
